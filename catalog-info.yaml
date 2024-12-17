@@ -13,5 +13,4 @@ metadata:
 spec:
   type: service
   lifecycle: production
-  owner: team-a
-  system: project-x
+  owner: khushi.sharma@harness.io
